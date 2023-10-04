@@ -6,7 +6,7 @@
 
 * 👂 `My name is`: **Ivan**,
 * ⚡ `I'm`: **40 years old**,
-*❤️ `I love`: **Tortilla de Patatas con Cebolla**  ,
+* ❤️ `I love`: **Tortilla de Patatas con Cebolla**  ,
 * 💻 `Favorite lang`: **Java**  
 
 <!---
